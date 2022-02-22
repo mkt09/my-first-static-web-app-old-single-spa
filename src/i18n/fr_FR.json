@@ -1,0 +1,243 @@
+{
+    "HEADER": {
+        "TOGGLE_MSG": "Do you know? now you can toggle ON/OFF any feature on demand",
+        "SUPPORT_ASSIST_DESC": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, id, culpa error consequatur esse dignissimos temporibus cumque incidunt harum eaque dolorum a laudantium, modi perspiciatis. Esse recusandae error consequuntur unde magni deserunt necessitatibus quia. Ab sapiente autem quibusdam impedit. Ipsa excepturi delectus nihil, sapiente velit dignissimos accusantium veniam, ea eum quas facilis minus id sint voluptatibus laborum, aut odit distinctio! Dolorem deleniti ut temporibus libero, hic inventore? Laboriosam quas sequi assumenda accusamus autem possimus quidem cumque, vero exercitationem explicabo molestiae quam obcaecati at velit magni modi iusto fugit dolorum suscipit adipisci vitae quod. Et earum cupiditate eveniet necessitatibus nulla tenetur, ea aperiam recusandae id? Architecto saepe voluptatem exercitationem, perspiciatis quos quae necessitatibus fugiat mollitia amet aliquid nam incidunt cum in quia voluptate debitis accusamus quaerat ipsa aspernatur eum porro modi error! Ab consequatur reiciendis quo a odio ipsam harum quaerat rerum quod dolores, expedita corporis, non eligendi, ex ea explicabo nesciunt odit repudiandae pariatur obcaecati voluptatem! Repellendus, vitae dolorem dicta sint harum quas eligendi est consectetur laudantium minima reprehenderit cum illum provident dolorum excepturi unde tenetur perspiciatis similique laborum voluptatem voluptatum necessitatibus iusto? Illo necessitatibus, voluptatibus quaerat et beatae consequuntur! Ea sapiente aliquam iste voluptas repellendus, libero at culpa voluptate molestias laudantium animi commodi similique consectetur exercitationem quos maiores tempora, deserunt perferendis enim dicta? Laudantium enim expedita sit facilis soluta iure ipsum velit omnis quo. Quaerat autem repudiandae in accusantium iste officiis atque magnam cum minus nulla fuga cumque eaque veniam, nemo at suscipit dolor sapiente fugit ab! Adipisci, distinctio?",
+        "SATD": "SATD",
+        "PRODEPLOY": "Déployer",
+        "AdminPortal_TITLE": "portail d'administration",
+        "DELL_TECHNOLOGIES_LOGO_ALT_TEXT": "Logo Dell Technologies",
+        "LANGUAGE_SELECTOR_ICON_ALT_TEXT": "Lien vers la sélection de la langue",
+        "MESSAGE_CENTER": "Notifications",
+        "MY_PROFILE": "Mon profil",
+        "LOGOUT": "Se déconnecter",
+        "CHANGE_IMPERSONATION": "Modifier le rôle d’usurpation d’identité",
+        "ASK_FOR_FEEDBACK": "S’inscrire pour les avis",
+        "ASK_FOR_FEEDBACK_MODAL": {
+            "TITLE": "S’inscrire pour les avis",
+            "SUBTITLE": "Nous pouvons être amenés à vous demander votre avis sur votre expérience.",
+            "CHECKBOX_TEXT": "J’accepte d’être contacté pour donner mon avis",
+            "CLOSE_BUTTON": "Clôture"
+        },
+        "MENU": {
+            "CLOSE": "FERMER",
+            "DASHBOARD": {
+                "TITLE": "Tableau de bord"
+            },
+            "SERVICES": {
+                "TITLE": "Services",
+                "NOTE": "Remarque : Rendez-vous sur le tableau de bord pour en savoir plus sur les éléments disponibles. Un administrateur peut gérer les services de votre entreprise.",
+                "MODALS": {
+                    "LEARN_MORE": "En savoir plus",
+                    "NEXT": "Suivant",
+                    "CLOSE": "Fermer",
+                    "COMPANY_ENROLLED_USER_CANNOT_ACCESS": {
+                        "TITLE": "Avis",
+                        "CONTENT": "Votre société est inscrite, mais vous n’avez pas la permission d’utiliser cette fonction actuellement. Pour que votre société puisse y accéder, contactez votre administrateur {{serviceTitle}}.",
+                        "ADMINISTRATORS": "Administrateur(s) {{serviceTitle}} :"
+                    },
+                    "COMPANY_NOT_ENROLLED_USER_IS_NOT_ADMIN": {
+                        "TITLE": "Avis",
+                        "CONTENT": "L’administrateur de votre entreprise doit inscrire votre société pour pouvoir utiliser cette fonction.",
+                        "ADMINISTRATORS": "Administrateur(s) : "
+                    },
+                    "COMPANY_NOT_ENROLLED_USER_IS_ADMIN": {
+                        "TITLE": "Exigences relatives aux conditions générales",
+                        "CONTENT": "L’accès à cette fonctionnalité dans TechDirect requiert l’approbation d’un administrateur. Cliquez sur Suivant pour consulter les conditions générales ou sur En savoir plus pour afficher d’autres informations"
+                    },
+                    "COMPANY_PARTIALLY_ENROLLED": {
+                        "TITLE": "Avis",
+                        "CONTENT": "Votre inscription a été reçue et est en cours d’examen. Votre administrateur {{serviceTitle}} sera informé lorsque l’examen sera terminé."
+                    },
+                    "ENROLLMENT_DENIED": {
+                        "TITLE": "Avis",
+                        "CONTENT": "L’inscription à ce service a été refusée par votre société et est en cours d’examen par Dell Technologies. Vous recevrez une mise à jour dans vos Notifications une fois l’inscription terminée."
+                    },
+                    "ACTIVATION": {
+                        "TITLE": "Exigences relatives à l’activation",
+                        "CONTENT": "L’accès à cette fonctionnalité dans TechDirect requiert l’approbation d’un administrateur. Cliquez sur Suivant pour consulter les informations relatives à l’activation ou sur En savoir plus pour afficher d’autres informations."
+                    }
+                }
+            },
+            "UTILITIES": {
+                "TITLE": "Utilitaires",
+                "ADDRESS_BOOK": {
+                    "TITLE": "Carnet d’adresses",
+                    "DESCRIPTION": "Stockez les adresses provenant de toutes vos activités TechDirect pour un accès rapide."
+                },
+                "GROUPS": {
+                    "TITLE": "Groupes",
+                    "DESCRIPTION": "Consulter les groupes virtuels auxquels vous êtes affecté."
+                },
+                "CONTACTS": {
+                    "TITLE": "Contacts",
+                    "DESCRIPTION": "Afficher et gérer les contacts d’un groupe."
+                },
+                "FEES_AND_PAYMENTS": {
+                    "TITLE": "Frais et paiements",
+                    "DESCRIPTION": "Vérifier et terminer les actions associées à l’un de nos programmes de remboursement des frais de main-d’œuvre."
+                },
+                "FEEDBACK": {
+                    "TITLE": "Commentaires",
+                    "DESCRIPTION": "Faites-nous part de vos suggestions d’amélioration. Ayez un impact sur l’avenir qui s’offre à nous !"
+                },
+                "ADMINISTRATOR_CONTROL_PANEL": {
+                    "TITLE": "Panneau de configuration d’administration",
+                    "DESCRIPTION": "Gestion des techniciens, demandes d’adhésion et autres fonctionnalités."
+                }
+            },
+            "DOCUMENTS": {
+                "TITLE": "Documents"
+            },
+            "HELP_CENTER": {
+                "TITLE": "centre d’aide"
+            }
+        }
+    },
+    "UNAUTHENTICATED_HEADER": {
+        "CONTACT_US": "Nous contacter",
+        "HELP_CENTER": "Centre d’assistance",
+        "DELL_TECHNOLOGIES_LOGO_ALT_TEXT": "Logo Dell Technologies",
+        "LOGIN": "Connexion"
+    },
+    "ADMIN": {
+        "TABS": {
+            "HOME_ADMIN": "Admin Home",
+            "TOGGLES_ADMIN": "Toggles"
+        }
+    },
+    "ALERTS": {
+        "ALERT_MESSAGE_DETAIL": {
+            "STARTS_FROM": "Commence par",
+            "TO": "à"
+        }
+    },
+    "FOOTER": {
+        "FOOTER_TITLE": "Qu’est-ce que le portail TechDirect ?",
+        "FOOTER_TITLE_SI": "Qu’est-ce que le portail TechDirect ?",
+        "FOOTER_TEXT": "TechDirect permet de gérer vos produits Dell Technologies à partir d’un seul emplacement central. Disponible où et quand vous en avez besoin : économisez du temps et boostez votre productivité.",
+        "FOOTER_TEXT_SI": "TechDirect est notre portail en ligne. Il vous permet de gérer l’ensemble de vos produits Dell à partir d’un seul emplacement. Vous bénéficiez d’un accès immédiat à tout ce dont vous avez besoin, quand vous en avez besoin. Vous économiserez du temps et vous verrez la productivité de votre équipe augmenter.",
+        "HELP_CENTER_TEXT": "Centre d’aide",
+        "CONTACT_US": "Contactez-nous",
+        "DELL_COPYRIGHT_LOGO_TEXT": "© 2021 Dell Technologies",
+        "ABOUT_TITLE": "À propos de Dell Technologies",
+        "ABOUT_TITLE_SI": "À propos de Dell",
+        "DELl_TECHNOLOGIES_SUPPORT_SI": "Support Dell Technologies",
+        "SERVICES_PRIVACY_STATEMENT_SI": "Déclaration de confidentialité relative aux services",
+        "SUPPORT_SERVICES_TITLE": "Services de support",
+        "PRIVACY_STATEMENT_TITLE": "Déclaration de confidentialité"
+    },
+    "NOT_FOUND": {
+        "TITLE": "Un problème est survenu.",
+        "TEXT": "Nous avons rencontré des problèmes lors du chargement de cette page. Revenez en arrière pour réessayer ou sélectionnez un autre élément.",
+        "BACK_BUTTON": "Retour"
+    },
+    "URLS": {
+        "AUTHENTICATED_HELP_CENTER": "https://techdirect.dell.com/portal/HelpCenter.aspx",
+        "DELL_COPYRIGHT": "https://www.dell.com/learn/us/en/uscorp1/site-terms-of-use-copyright",
+        "AUTHENTICATED_CONTACT_US": "https://techdirect.dell.com/portal/contactus.aspx",
+        "UNAUTHENTICATED_CONTACT_US": "https://www.delltechnologies.com/fr-fr/contactus.htm",
+        "ABOUT_US": "https://corporate.delltechnologies.com/fr-fr/about-us.htm",
+        "SUPPORT_SERVICES": "https://www.delltechnologies.com/fr-fr/services/support-services/index.htm",
+        "PRIVACY_POLICY": "https://www.dell.com/learn/fr/fr/frcorp1/policies-privacy"
+    },
+    "SERVICES": {
+        "CLIENT_DEVICES_TITLE": "Appareils clients",
+        "IT_INFRASTRUCTURE_TITLE": "Infrastructure IT",
+        "TABS": {
+            "BUILD_AND_DEPLOY_TITLE": "Création et déploiement",
+            "CONNECT_AND_MANAGE_TITLE": "Connexion et gestion",
+            "GET_SUPPORT_AND_REPLACE_PARTS_TITLE": "Obtention d’une assistance et remplacement des pièces",
+            "RETIRE_YOUR_ASSETS_TITLE": "Retrait de vos ressources",
+            "DELL_SERVICE_PROVIDER_TITLE": "Prestataire de services Dell",
+            "MY_SERVICE_360_TITLE": "Présentation de l’accès à MyService360",
+            "MY_SERVICE_360_TITLE_ALT": "Présentation de MyService360"
+        },
+        "ALERTS": {
+            "MS360": {
+                "CONTENT": "Votre expérience de service numérique personnalisée intègre désormais davantage de données, regroupées dans un seul affichage. Commencez ici avec un snapshot de certains paramètres et risques de MyService360.  Accédez rapidement à votre tableau de bord pour gérer proactivement la santé des services. Obtenez plus d’informations sur les ",
+                "LINK_TEXT": "Solutions Dell EMC supportées dans MyService360",
+                "BUTTON": "En savoir plus"
+            }
+        },
+        "CARDS": {
+            "PRODEPLOY_CLIENT_SUITE": {
+                "TITLE": "ProDeploy Client Suite"
+            },
+            "IMAGEASSIST": {
+                "TITLE": "Dell Image Assist"
+            },
+            "CONNECTED_PROVISIONING": {
+                "TITLE": "Connected Provisioning"
+            },
+            "MANAGE_YOUR_PC_FLEET": {
+                "TITLE": "Gérer le parc d’ordinateurs"
+            },
+            "MANAGE_UPDATE_CATALOGS": {
+                "TITLE": "Gérer les catalogues de mises à jour"
+            },
+            "CONNECT_AND_MANAGE": {
+                "TITLE": "Connecter et gérer"
+            },
+            "TECHNICAL_SUPPORT": {
+                "TITLE": "Support technique"
+            },
+            "SELF_DISPATCH": {
+                "TITLE": "Auto-expédition"
+            },
+            "APIS": {
+                "TITLE": "API"
+            },
+            "DISTRIBUTOR_PARTS_DIRECT": {
+                "TITLE": "Distributor Parts Direct"
+            },
+            "ASSET_RECOVERY_SERVICES": {
+                "TITLE": "Asset Recovery Services"
+            },
+            "PRODEPLOY_ENTERPRISE_SUITE": {
+                "TITLE": "ProDeploy Enterprise Suite"
+            },
+            "MANAGE_ENTERPRISE_ASSETS_AND_ALERTS": {
+                "TITLE": "Gérer les alertes et les ressources de l’entreprise"
+            },
+            "INSTALL_BASE": {
+                "TITLE": "Installer la base"
+            },
+            "INCIDENT_MANAGEMENT": {
+                "TITLE": "Demandes de service ouvertes"
+            },
+            "CONNECTIVITY": {
+                "TITLE": "Connectivité"
+            },
+            "CODE_LEVELS": {
+                "TITLE": "Niveaux de code"
+            },
+            "CONTRACTS": {
+                "TITLE": "Contrats en cours d’expiration"
+            },
+            "ONSITE_SERVICES": {
+                "TITLE": "Services sur site"
+            },
+            "TECHNICAL_ADVISORIES": {
+                "TITLE": "Conseils techniques critiques"
+            },
+            "SECURITY_ADVISORIES": {
+                "TITLE": "Conseils en matière de sécurité critique"
+            },
+            "LOIS": {
+                "TITLE": "Inventaire de pièces dédié"
+            },
+            "SAMPLES": {
+                "SI_LITELEMENTS_SAMPLE_MFE": {
+                    "TITLE": "LitElement MFE"
+                },
+                "SI_ANGULAR_SAMPLE_MFE": {
+                    "TITLE": "Angular MFE"
+                },
+                "EMC_MFE": {
+                    "TITLE": "Sample EMC MFE"
+                }
+            }
+        }
+    },
+    "BACK": "Arrière"
+}

@@ -1,0 +1,244 @@
+{
+    "HEADER": {
+        "TOGGLE_MSG": "Do you know? now you can toggle ON/OFF any feature on demand",
+        "SUPPORT_ASSIST_DESC": "The pain itself is important to the main adipisicing elite. By this labor, neither of them is bound to what he is, for the corrupt are said to have been called to the necessities of life and to that exercise, and therefore he was born to condemn him for some reason, because they provide no time for freedom. They do not know the difference between avoidance, blame, and blame; Do we take a similar pain from the main ones? He likes to pardon him, he flees from him, and with them, they don't know how to counteract anything like pleasures. When one chooses the time of the labors of the body, the pains and the unencumbered in the offices, nor do they forsake the freedom of accusing them! While accusing them of their fault is an exercise, we accuse some of taking pleasure in it, for in fact, this one achieves nothing, but the whole system is an awful one for those of whom it will open up. No one dislikes or even pushes back! In reality, the pleasure of accusing them will open up the pleasures of these admirers! Our great annoyance prevents the whole incident, since it is easy to soothe the troubles of accepting corrupt offices, and forsake the very sorrows of their architect, often accusing them of being and abandoning them. The smallest things which, by what law, does he flee from them, do they desert him while accusing him of doing so?",
+        "SATD": "SATD",
+        "PRODEPLOY": "ProDeploy",
+        "AdminPortal_TITLE": "Admin Portal UI",
+        "DELL_TECHNOLOGIES_LOGO_ALT_TEXT": "Dell Technologies logo",
+        "LANGUAGE_SELECTOR_ICON_ALT_TEXT": "Link to select language",
+        "MESSAGE_CENTER": "Notifications",
+        "CURRENT_SERVICE_TAG": "Current service Tag is :",
+        "MY_PROFILE": "My Profile",
+        "LOGOUT": "Logout",
+        "CHANGE_IMPERSONATION": "Change impersonation",
+        "ASK_FOR_FEEDBACK": "Opt in for feedback",
+        "ASK_FOR_FEEDBACK_MODAL": {
+            "TITLE": "Opt in for feedback",
+            "SUBTITLE": "From time to time we may request feedback on your experience.",
+            "CHECKBOX_TEXT": "It's OK to contact me for feedback",
+            "CLOSE_BUTTON": "Close"
+        },
+        "MENU": {
+            "CLOSE": "CLOSE",
+            "DASHBOARD": {
+                "TITLE": "Dashboard"
+            },
+            "SERVICES": {
+                "TITLE": "Services",
+                "NOTE": "Note: Visit the dashboard to learn more about what's available. An administrator can manage your company's services.",
+                "MODALS": {
+                    "LEARN_MORE": "Learn More",
+                    "NEXT": "Next",
+                    "CLOSE": "Close",
+                    "COMPANY_ENROLLED_USER_CANNOT_ACCESS": {
+                        "TITLE": "Notice",
+                        "CONTENT": "Your company is enrolled but you do not currently have permission to work with this function. Please contact your {{serviceTitle}} administrator for your company to gain access.",
+                        "ADMINISTRATORS": "{{serviceTitle}} Administrator(s):"
+                    },
+                    "COMPANY_NOT_ENROLLED_USER_IS_NOT_ADMIN": {
+                        "TITLE": "Notice",
+                        "CONTENT": "Your company administrator will need to enroll your company to use this function.",
+                        "ADMINISTRATORS": "Administrator(s): "
+                    },
+                    "COMPANY_NOT_ENROLLED_USER_IS_ADMIN": {
+                        "TITLE": "Terms & Conditions Requirement",
+                        "CONTENT": "Access to this capability in TechDirect will require an Administrator approval. Please click Next to see Terms & Conditions or Learn More to review additional information"
+                    },
+                    "COMPANY_PARTIALLY_ENROLLED": {
+                        "TITLE": "Notice",
+                        "CONTENT": "Your enrollment has been received and is currently being reviewed. Your {{serviceTitle}} administrator will be notified when the review is complete."
+                    },
+                    "ENROLLMENT_DENIED": {
+                        "TITLE": "Notice",
+                        "CONTENT": "Enrollment for this service has been declined by your company and is under review by Dell Technologies. You will receive an update in your Notifications upon completion."
+                    },
+                    "ACTIVATION": {
+                        "TITLE": "Activation Requirement",
+                        "CONTENT": "Access to this capability in TechDirect will require an Administrator approval. Please click Next to see Activation information or Learn More to review additional information."
+                    }
+                }
+            },
+            "UTILITIES": {
+                "TITLE": "Utilities",
+                "ADDRESS_BOOK": {
+                    "TITLE": "Address Book",
+                    "DESCRIPTION": "Store addresses from all your TechDirect activities for quick access."
+                },
+                "GROUPS": {
+                    "TITLE": "Groups",
+                    "DESCRIPTION": "View the virtual groups to which you are assigned."
+                },
+                "CONTACTS": {
+                    "TITLE": "Contacts",
+                    "DESCRIPTION": "View and manage group contacts."
+                },
+                "FEES_AND_PAYMENTS": {
+                    "TITLE": "Fees & Payments",
+                    "DESCRIPTION": "Review and complete actions related to one of our labor reimbursement programs."
+                },
+                "FEEDBACK": {
+                    "TITLE": "Feedback",
+                    "DESCRIPTION": "Provide us with your ideas for improvements. Influence the future of where we go!"
+                },
+                "ADMINISTRATOR_CONTROL_PANEL": {
+                    "TITLE": "Administrator Control Panel",
+                    "DESCRIPTION": "Manage your Technicians, Join Requests, and other capabilities."
+                }
+            },
+            "DOCUMENTS": {
+                "TITLE": "Documents"
+            },
+            "HELP_CENTER": {
+                "TITLE": "Help Center"
+            }
+        }
+    },
+    "UNAUTHENTICATED_HEADER": {
+        "CONTACT_US": "Contact Us",
+        "HELP_CENTER": "Help Center",
+        "DELL_TECHNOLOGIES_LOGO_ALT_TEXT": "Dell Technologies logo",
+        "LOGIN": "Sign in"
+    },
+    "ADMIN": {
+        "TABS": {
+            "HOME_ADMIN": "Admin Home",
+            "TOGGLES_ADMIN": "Toggles"
+        }
+    },
+    "ALERTS": {
+        "ALERT_MESSAGE_DETAIL": {
+            "STARTS_FROM": "Starts from",
+            "TO": "to"
+        }
+    },
+    "FOOTER": {
+        "FOOTER_TITLE": "What is TechDirect?",
+        "FOOTER_TITLE_SI": "What is TechDirect?",
+        "FOOTER_TEXT": "TechDirect lets you manage your Dell Technologies products from one central location. It's there where and when you need it—saving you time and boosting your productivity.",
+        "FOOTER_TEXT_SI": "TechDirect is our online portal that lets you manage all of your Dell products from one place. With immediate access to everything you need, anytime you need it, you’ll save time and watch your team’s productivity rise.",
+        "HELP_CENTER_TEXT": "Help center",
+        "CONTACT_US": "Contact us",
+        "DELL_COPYRIGHT_LOGO_TEXT": "© 2021 Dell Technologies",
+        "ABOUT_TITLE": "About Dell Technologies",
+        "ABOUT_TITLE_SI": "About Dell",
+        "DELl_TECHNOLOGIES_SUPPORT_SI": "Dell Technologies Support",
+        "SERVICES_PRIVACY_STATEMENT_SI": "Services Privacy Statement",
+        "SUPPORT_SERVICES_TITLE": "Support Services",
+        "PRIVACY_STATEMENT_TITLE": "Privacy Statement"
+    },
+    "NOT_FOUND": {
+        "TITLE": "Something went wrong.",
+        "TEXT": "We had trouble loading this page. Go back now to try again or select something else.",
+        "BACK_BUTTON": "Go back"
+    },
+    "URLS": {
+        "AUTHENTICATED_HELP_CENTER": "https://techdirect.dell.com/portal/HelpCenter.aspx",
+        "DELL_COPYRIGHT": "https://www.dell.com/learn/us/en/uscorp1/site-terms-of-use-copyright",
+        "AUTHENTICATED_CONTACT_US": "https://techdirect.dell.com/portal/contactus.aspx",
+        "UNAUTHENTICATED_CONTACT_US": "https://www.delltechnologies.com/en-us/contactus.htm",
+        "ABOUT_US": "https://corporate.delltechnologies.com/en-us/about-us.htm",
+        "SUPPORT_SERVICES": "https://www.delltechnologies.com/en-us/services/support-services/index.htm",
+        "PRIVACY_POLICY": "https://www.dell.com/learn/us/en/uscorp1/policies-privacy?s=corp"
+    },
+    "SERVICES": {
+        "CLIENT_DEVICES_TITLE": "Client Devices",
+        "IT_INFRASTRUCTURE_TITLE": "IT Infrastructure",
+        "TABS": {
+            "BUILD_AND_DEPLOY_TITLE": "Build and deploy",
+            "CONNECT_AND_MANAGE_TITLE": "Connect and manage",
+            "GET_SUPPORT_AND_REPLACE_PARTS_TITLE": "Get support and replace parts",
+            "RETIRE_YOUR_ASSETS_TITLE": "Retire your assets",
+            "DELL_SERVICE_PROVIDER_TITLE": "Dell service provider",
+            "MY_SERVICE_360_TITLE": "Access MyService360 overview",
+            "MY_SERVICE_360_TITLE_ALT": "MyService360 overview"
+        },
+        "ALERTS": {
+            "MS360": {
+                "CONTENT": "Your tailored digital service experience now integrates more data into one view. Start here with a snapshot of select MyService360 metrics and risks.  Quickly access your dashboard to proactively manage services health. Get more information on ",
+                "LINK_TEXT": "Dell EMC solutions supported in MyService360",
+                "BUTTON": "Learn more"
+            }
+        },
+        "CARDS": {
+            "PRODEPLOY_CLIENT_SUITE": {
+                "TITLE": "ProDeploy Client Suite"
+            },
+            "IMAGEASSIST": {
+                "TITLE": "Dell Image Assist"
+            },
+            "CONNECTED_PROVISIONING": {
+                "TITLE": "Connected Provisioning"
+            },
+            "MANAGE_YOUR_PC_FLEET": {
+                "TITLE": "Manage PC fleet"
+            },
+            "MANAGE_UPDATE_CATALOGS": {
+                "TITLE": "Manage update catalogs"
+            },
+            "CONNECT_AND_MANAGE": {
+                "TITLE": "Connect and manage"
+            },
+            "TECHNICAL_SUPPORT": {
+                "TITLE": "Technical Support"
+            },
+            "SELF_DISPATCH": {
+                "TITLE": "Self-Dispatch"
+            },
+            "APIS": {
+                "TITLE": "APIs"
+            },
+            "DISTRIBUTOR_PARTS_DIRECT": {
+                "TITLE": "Distributor Parts Direct"
+            },
+            "ASSET_RECOVERY_SERVICES": {
+                "TITLE": "Asset Recovery Services"
+            },
+            "PRODEPLOY_ENTERPRISE_SUITE": {
+                "TITLE": "ProDeploy Enterprise Suite"
+            },
+            "MANAGE_ENTERPRISE_ASSETS_AND_ALERTS": {
+                "TITLE": "Manage enterprise assets and alerts"
+            },
+            "INSTALL_BASE": {
+                "TITLE": "Install base"
+            },
+            "INCIDENT_MANAGEMENT": {
+                "TITLE": "Open Service Requests"
+            },
+            "CONNECTIVITY": {
+                "TITLE": "Connectivity"
+            },
+            "CODE_LEVELS": {
+                "TITLE": "Code levels"
+            },
+            "CONTRACTS": {
+                "TITLE": "Expiring contracts"
+            },
+            "ONSITE_SERVICES": {
+                "TITLE": "On-site services"
+            },
+            "TECHNICAL_ADVISORIES": {
+                "TITLE": "Critical technical advisories"
+            },
+            "SECURITY_ADVISORIES": {
+                "TITLE": "Critical security advisories"
+            },
+            "LOIS": {
+                "TITLE": "Dedicated Parts Inventory"
+            },
+            "SAMPLES": {
+                "SI_LITELEMENTS_SAMPLE_MFE": {
+                    "TITLE": "LitElement MFE"
+                },
+                "SI_ANGULAR_SAMPLE_MFE": {
+                    "TITLE": "Angular MFE"
+                },
+                "EMC_MFE": {
+                    "TITLE": "Sample EMC MFE"
+                }
+            }
+        }
+    },
+    "BACK": "Back"
+}
