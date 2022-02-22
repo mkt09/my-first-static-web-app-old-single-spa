@@ -40,7 +40,7 @@ export const APP_ROUTES: Routes = [
     path: 'psmOverview',
     loadChildren: () =>
       loadRemoteModule({
-        remoteEntry: '/mf/satd-overview/remoteEntry.js',
+        remoteEntry: 'https://cdn.jsdelivr.net/gh/mkt09/module-fed-overview/dist/psm-overview/remoteEntry.js',
         remoteName: 'psmOverview',
         exposedModule: './PsmOverviewModule',
       }).then((m) => {
@@ -48,17 +48,10 @@ export const APP_ROUTES: Routes = [
       }),
   },
   {
-
-      //   route: 'psmInsight',
-  //   remoteEntry: '/mf/satd-insight/remoteEntry.js',
-  //   remoteName: 'psmInsight',
-  //   exposedModule: './PsmInsightModule',
-  //   moduleName: 'PsmInsightModule'
-
     path: 'psmInsight',
     loadChildren: () =>
       loadRemoteModule({
-        remoteEntry: '/mf/satd-insight/remoteEntry.js',
+        remoteEntry: 'https://cdn.jsdelivr.net/gh/mkt09/module-fed-insight/dist/psm-insight/remoteEntry.js',
         remoteName: 'psmInsight',
         exposedModule: './PsmInsightModule',
       }).then((m) => {

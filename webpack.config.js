@@ -39,8 +39,8 @@ module.exports = {
         // shared libraray
         // remote entry move to cdn
         psmDeployment: "psmDeployment@https://cdn.jsdelivr.net/gh/mkt09/module-fed-psm-deployment/dist/psm-deployment/remoteEntry.js",
-        psmOverview: "psmOverview@/mf/satd-overview/remoteEntry.js",
-        psmInsight: "psmInsight@/mf/satd-insight/remoteEntry.js"
+        psmOverview: "psmOverview@https://cdn.jsdelivr.net/gh/mkt09/module-fed-overview/dist/psm-overview/remoteEntry.js",
+        psmInsight: "psmInsight@https://cdn.jsdelivr.net/gh/mkt09/module-fed-insight/dist/psm-insight/remoteEntry.js"
       },
 
       shared: share(
