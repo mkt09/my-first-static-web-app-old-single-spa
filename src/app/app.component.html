@@ -1,20 +1,27 @@
-<div style="margin-top: 10px; margin-left: 15px;">
-    
-    <h1>{{ 'HEADER.AdminPortal_TITLE' | translate}}</h1>
-      
-    <br>
-    
-    <h3>{{ 'HEADER.TOGGLE_MSG' | translate }}</h3>
+<!-- <ul>
+  <li [routerLink]="['psmDeployment']">Psm Deployment</li>
+  <li [routerLink]="['/psmOverview']">Psm Overview</li>
+</ul> -->
+<!-- 
+<h2>
+  I am psm-ui app, use above links to load the micro frontends running on other
+  ports
+</h2> -->
 
-    <br>
-    <h5 *ngIf="serviceTag">Current service Tag is : {{serviceTag}}</h5>
-
-    <br>
-
-    <button (click)="onClick()">Toggle Language</button>
-   
-    <p style="margin-top: 20px;">
-        {{ 'HEADER.SUPPORT_ASSIST_DESC' | translate }}
-    </p>
+<!-- <div class="container">
   
-  </div>
+</div> -->
+
+<!-- <psm-custom-header (navigate)="onNavigationClick($event)"></psm-custom-header> -->
+
+<!-- 
+<div *ngIf="showSpinner; else loggedOut">
+  Loading in progress...
+</div>
+
+<ng-template #loggedOut>
+  <router-outlet></router-outlet>
+</ng-template>
+ -->
+
+<router-outlet></router-outlet>

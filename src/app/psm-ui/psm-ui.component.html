@@ -1,0 +1,44 @@
+<div style="margin-top: 10px; margin-left: 5px;">
+
+<h1 style="margin-left: 15px;">{{ 'HEADER.SUPPORT_ASSIST_TECH_DIRECT' | translate}}</h1>
+
+<h5 style="margin-left: 15px;" *ngIf="serviceTag">Current service Tag is : {{serviceTag}}</h5>
+
+<p style="margin-top: 10px; margin-left: 15px;">
+  {{ 'HEADER.SUPPORT_ASSIST_DESC' | translate}}
+</p>
+
+<div class="row" style="margin-top: 60px; margin-left: 15px;">
+        <div class="col-lg-4">
+            <div class="card" (click)="onOverviewClick()" style="width: 18rem;">
+                <img src="/assets/overview.png" style="height: 170px;" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">{{ 'HEADER.PSM_OVERVIEW' | translate}}</h5>
+                  <p class="card-text">{{ 'HEADER.SA_CARD_DESC' | translate}}</p>
+                  <a (click)="onOverviewClick()" class="btn btn-primary">{{ 'HEADER.PC_OVERVIEW' | translate }}</a>
+                </div>
+              </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="card" (click)="onDeploymentClick()" style="width: 18rem;">
+                <img src="/assets/deployment.png" style="height: 170px;" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">{{ 'HEADER.PSM_DEPLOYMENT' | translate}}</h5>
+                  <p class="card-text">{{ 'HEADER.SA_CARD_DESC' | translate}}</p>
+                  <a (click)="onDeploymentClick()" class="btn btn-primary">{{ 'HEADER.CONNECT_MANAGE' | translate}}</a>
+                </div>
+              </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="card" (click)="onInsightClick()" style="width: 18rem;">
+                <img src="/assets/Insights.png" style="height: 170px;" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">{{ 'HEADER.PSM_INSIGHT' | translate}}</h5>
+                  <p class="card-text">{{ 'HEADER.SA_CARD_DESC' | translate}}</p>
+                  <a (click)="onInsightClick()" class="btn btn-primary">{{ 'HEADER.APP_INSIGHT' | translate}}</a>
+                </div>
+              </div>
+          </div>
+</div>
+</div>
+

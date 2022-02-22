@@ -20,7 +20,7 @@ export class SingleSpaPropsStore {
         return SingleSpaPropsStore.instance;
     }
 
-    public store(singleSpaProps: SingleSpaProps) {
+    public store(singleSpaProps: SingleSpaProps) {       
         this.props = singleSpaProps;
     }
 }

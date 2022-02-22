@@ -10,7 +10,10 @@ import { SingleSpaPropsStore } from './single-spa/single-spa-props.store';
 if (environment.production) {
   enableProdMode();
 }
-  
+
+console.log('I am called ........ 2');
+
+
 const lifecycles = singleSpaAngular({
   bootstrapFunction: singleSpaProps => {
     SingleSpaPropsStore.getInstance().store(singleSpaProps);
@@ -27,6 +30,7 @@ const lifecycles = singleSpaAngular({
 export const bootstrap = lifecycles.bootstrap;
 export const mount = lifecycles.mount;
 export const unmount = lifecycles.unmount;
+
 
 function getPlatformbrowserDynamic() {
   (window as any).plattform = (window as any).plattform || {};
