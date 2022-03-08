@@ -29,7 +29,8 @@ export const APP_ROUTES: Routes = [
     path: 'psmDeployment',
     loadChildren: () =>
       loadRemoteModule({
-        remoteEntry: 'https://cdn.jsdelivr.net/gh/mkt09/module-fed-psm-deployment/dist/psm-deployment/remoteEntry.js',
+        // remoteEntry: 'https://angularblobs.blob.core.windows.net/psm-deployment/remoteEntry.js',
+        remoteEntry: 'https://angularblobs.blob.core.windows.net/psm-deployment/remoteEntry.js',
         remoteName: 'psmDeployment',
         exposedModule: './PsmDeploymentModule',
       }).then((m) => {
@@ -40,7 +41,8 @@ export const APP_ROUTES: Routes = [
     path: 'psmOverview',
     loadChildren: () =>
       loadRemoteModule({
-        remoteEntry: 'https://cdn.jsdelivr.net/gh/mkt09/module-fed-overview/dist/psm-overview/remoteEntry.js',
+        // remoteEntry: 'https://cdn.jsdelivr.net/gh/mkt09/module-fed-overview/dist/psm-overview/remoteEntry.js',
+        remoteEntry: 'https://angularblobs.blob.core.windows.net/psm-overview/remoteEntry.js',
         remoteName: 'psmOverview',
         exposedModule: './PsmOverviewModule',
       }).then((m) => {
@@ -51,7 +53,8 @@ export const APP_ROUTES: Routes = [
     path: 'psmInsight',
     loadChildren: () =>
       loadRemoteModule({
-        remoteEntry: 'https://cdn.jsdelivr.net/gh/mkt09/module-fed-insight/dist/psm-insight/remoteEntry.js',
+        // remoteEntry: 'https://cdn.jsdelivr.net/gh/mkt09/module-fed-insight/dist/psm-insight/remoteEntry.js',
+        remoteEntry: 'https://angularblobs.blob.core.windows.net/psm-insight/remoteEntry.js',
         remoteName: 'psmInsight',
         exposedModule: './PsmInsightModule',
       }).then((m) => {
